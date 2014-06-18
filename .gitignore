@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!readme.md
+!*/
+!csharp/WordCounter/WordCounter/Counter.cs
+!groovy/src/ch/unog/Counter.groovy
